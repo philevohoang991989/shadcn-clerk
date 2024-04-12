@@ -4,7 +4,8 @@ import Link from 'next/link';
 const SignInPage = () => {
   return (
     <>
-      <SignIn />
+      <h1>Sign In Page</h1>
+      <SignUpButton/>
     </>
   );
 };
