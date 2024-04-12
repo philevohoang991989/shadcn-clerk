@@ -1,0 +1,12 @@
+{
+  "Navigation":{
+    "home": "Trang chủ"
+  },
+  "Home": {
+    "title": "Trang chủ",
+    "description": "Đây là trang chủ"
+  },
+  "Footer": {
+    "copyright": "© 2024 Your App. All rights reserved."
+  }
+}

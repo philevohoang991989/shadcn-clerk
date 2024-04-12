@@ -1,0 +1,13 @@
+{
+  "Navigation":{
+    "home": "Home Page"
+  },
+
+  "Home": {
+    "title": "HomePage",
+    "description": "This is home page"
+  },
+  "Footer": {
+    "copyright": "© 2024 Your App. All rights reserved."
+  }
+}
